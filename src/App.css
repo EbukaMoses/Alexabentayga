@@ -24,6 +24,11 @@ body {
   /* align-items: center; */
   gap: 40px;
 }
+.flex2 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
 
 a {
   text-decoration: none;
@@ -209,7 +214,7 @@ img {
 }
 .swiper-button-prev,
 .swiper-button-next,
-.swiper-pagination{
+.swiper-pagination {
   display: none !important;
 }
 @media screen and (max-width: 768px) {

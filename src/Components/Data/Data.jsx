@@ -177,7 +177,7 @@ export const footer = [
       33, Cliffland Estate, Plot 613, Gudu-Apo Road, Dutse Apo District Abuja`,
       },
       { list: `info@alexabentayga.com` },
-      { list: ` +234 811 112 2207` },
+      { list: ` + (234) 803 194 2406` },
     ],
   },
 ];

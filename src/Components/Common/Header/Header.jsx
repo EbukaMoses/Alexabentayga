@@ -17,7 +17,7 @@ const Header = () => {
   return (
     <>
       <div className="container top_header flex">
-        <div className="box flex1">
+        <div className="box flex2">
           <FaLocationDot className="Fa" />
           <span>
             33, CliNand Estate, Plot 614, GUdu-Apo Road, Dutse Apo District,
@@ -25,14 +25,14 @@ const Header = () => {
           </span>
         </div>
 
-        <div className="box flex1">
+        <div className="box flex2">
           <FaEnvelopeCircleCheck className="Fa" />
           <span>
             <a href="mailto:info@alexabentayga.com">info@alexabentayga.com</a>
           </span>
         </div>
 
-        <div className="box flex1">
+        <div className="box flex2">
           <FaSquarePhone className="Fa" />
           <span>
             <a href="tel:+2348031942406">+ (234) 803 194 2406</a>

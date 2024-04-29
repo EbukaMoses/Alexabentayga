@@ -7,6 +7,10 @@
   color: gray;
   font-size: 0.8rem;
   margin-left: 0.3rem;
+  /* text-transform: lowercase; */
+}
+.box span :not(a:nth-last-child(2)) {
+  text-transform: lowercase;
 }
 .box .Fa {
   color: #39bbf5;
